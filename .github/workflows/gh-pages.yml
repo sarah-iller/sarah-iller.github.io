@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - master  # Set a branch to deploy
+      - gh-pages  # Set a branch to deploy
 
 jobs:
   deploy:
